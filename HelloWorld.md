@@ -1,1 +1,3 @@
-## My first MarkDown file pushed with Git to GitHub!
+## This is a markdown file
+
+My first MarkDown file pushed with Git to GitHub!
